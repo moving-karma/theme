@@ -215,12 +215,12 @@
       "pagefly-home": {
         "type": "pagefly-home",
         "settings": {
-          "welcome_logo": "shopify:\/\/shop_images\/LOGO_SYMBOL_edbab251-417c-497b-8ab9-6d8d51d9feec.png",
+          "welcome_logo": "shopify:\/\/shop_images\/LOGO_SYMBOL-removebg-preview_upscayl_4x_realesrgan-x4plus.png",
           "desktop_logo_size": 250,
           "mobile_logo_size": 180,
           "welcome_msg": "ENTER",
-          "welcome_msg_font_size": 42,
-          "welcome_mob_font_size": 30,
+          "welcome_msg_font_size": 48,
+          "welcome_mob_font_size": 32,
           "msg_dsktp_clr": "#ffffff",
           "msg_mob_clr": "#000000",
           "welcome_link": "shopify:\/\/collections\/all",
@@ -238,6 +238,7 @@
         "type": "preloader",
         "settings": {
           "preloader_check": true,
+          "preloader_img": "shopify:\/\/shop_images\/KIRMA_20LOGO_20_1.jpg",
           "preloader_bg": "#000000"
         }
       }
